@@ -1,0 +1,77 @@
+*{
+    background: radial-gradient(circle,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content{
+    background-repeat: no-repeat;
+    margin: 500px;
+    border: 2px solid gainsboro;
+    height: 500px;
+    width: 500px;
+    border-radius: 50px;
+    background: rgba(188, 188, 188, 0.5);
+}
+.content img{
+    border-radius: 50%;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+.content h1{
+    text-align: center;
+    height: 50px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background: none;
+}
+.content h2{
+    color: black;
+    background: none;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content p{
+    color: lightslategray;
+    text-align: center;
+    width: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background: none;
+}
+.content form{
+    text-align: center;
+    background: none;
+}
+.div_right{
+    background: none;
+    float: left;
+    width: 200px;
+    text-align: left;
+    margin-right: 70px;
+}
+.div_left{
+    background: none;
+    float: left;
+    width: 200px;
+    text-align: center;
+    margin-left: 26px;
+}
+.nutbam{
+    border: 0px solid white;
+    background: white;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-left: 105px;
+    margin-right: 100px;
+    padding: 5px;
+    font-weight: bold;
+    text-align: center;
+}

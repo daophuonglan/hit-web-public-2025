@@ -1,0 +1,53 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    color: aqua;
+    background-color: black;
+}
+h1{
+    color: blueviolet;
+}
+h2{
+    color: red;
+}
+
+.container{
+    background-color: grey;
+    padding: 20px;
+    border: 2px solid black;
+}
+p{
+    color: antiquewhite;
+    font-size: 24px;
+}
+.content{
+    /* background-image: url(https://khoinguonsangtao.vn/wp-content/uploads/2022/08/anh-one-piece-cute-chibi.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid black;
+    border-radius: 10px;
+    text-align: center;
+    /* text-transform: uppercase; */
+    text-transform: lowercase;
+    text-decoration: underline;
+    /* font-style: oblique; */
+    height: 500px;
+    width: 500px;
+    background-color: grey;
+    padding: 50px 40px 50px 40px;
+    margin-left: 500px;
+    margin-bottom: 50px;
+}
+.content p{
+    color: black;
+    background-color: #f1034d;
+    border: 10px dotted black;
+    font-weight: 900;
+    margin-top: 100px;
+    padding: 50px;
+}
